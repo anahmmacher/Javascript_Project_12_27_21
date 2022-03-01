@@ -2,6 +2,14 @@ const path = require('path');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
 const config = {
+    resolve: {
+        fallback: {
+            "fs": false,
+            "path": false,
+            "assert": false,
+            "buffer": false
+        }
+    }, 
     entry: [
         path.resolve(__dirname, 'src', 'index.js'),
         path.resolve(__dirname, 'src', 'index.scss'),
