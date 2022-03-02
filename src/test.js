@@ -1,4 +1,4 @@
-const worldData = require("../world_data.json")
+const worldData = require("./data/world_data.json")
 console.log(worldData)
 function parseData(data){
     let dataHash = {};

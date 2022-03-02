@@ -2,7 +2,6 @@ import {dataPojo} from "./test.js"
 
 document.addEventListener("DOMContentLoaded", () => {
     console.log("It's all working :)");
-    console.log(dataPojo);
     const filtered = Object.values(dataPojo).filter(obj => {
         //  return parseInt(obj.dims.YEAR) === 2019;
         if (obj.dims.YEAR === "2019" && obj.dims.ALCOHOLTYPE === "Other alcoholic beverages") return obj;
@@ -28,4 +27,4 @@ document.addEventListener("DOMContentLoaded", () => {
 //     console.log(data2);
 //     return data2;
 // }
-
+export const fData = filtered
