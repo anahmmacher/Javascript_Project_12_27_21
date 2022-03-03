@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
      height = +svg.attr("height");
 
     var projection = d3.geoMercator()
-                    .scale(120)
+                    .scale(150)
                     .center([0, 50])
                     .translate([width / 2.5, height / 2.5])
 
