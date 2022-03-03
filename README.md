@@ -19,3 +19,9 @@ MVP List :
 
 instructions, World map, data filter options, hover legend, pop-up section 
 for individual country data.
+
+
+overall progress:
+The World map is showing and I was able to make a crude legend, since there's not much interactivity at the moment, I don't have instructions.
+creating the map took most of my time. importing and mainipulating the data was more challenging than expected. Started working on way to sort data
+rerender map, but ran out of time. This will be implemented in the final version later on. 
