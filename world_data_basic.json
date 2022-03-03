@@ -1762,6 +1762,16 @@
               },
               {
                 "dims": {
+                  "COUNTRY": "Taiwan",
+                  "ID": "TWN",
+                  "ALCOHOLTYPE": "All types",
+                  "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                  "YEAR": "2019"
+                },
+                "Value": "No Data"
+              },
+              {
+                "dims": {
                           "COUNTRY": "Thailand",
                           "ID": "THA",
                           "ALCOHOLTYPE": "All types",
@@ -1964,6 +1974,16 @@
                 "dims": {
                   "COUNTRY": "West Bank",
                   "ID": "PSE",
+                  "ALCOHOLTYPE": "All types",
+                  "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                  "YEAR": "2019"
+                },
+                "Value": "No Data"
+              },
+              {
+                "dims": {
+                  "COUNTRY": "Western Sahara",
+                  "ID": "ESH",
                   "ALCOHOLTYPE": "All types",
                   "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
                   "YEAR": "2019"
