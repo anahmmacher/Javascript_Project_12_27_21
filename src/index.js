@@ -23,9 +23,9 @@ document.addEventListener("DOMContentLoaded", () => {
      height = +svg.attr("height");
 
     var projection = d3.geoMercator()
-                    .scale(110)
-                    .center([0, 20])
-                    .translate([width / 2., height / 2.5])
+                    .scale(120)
+                    .center([0, 50])
+                    .translate([width / 2.5, height / 2.5])
 
     let canvas = d3.select('#map');
 
