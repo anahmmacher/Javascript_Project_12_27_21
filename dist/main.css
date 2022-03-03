@@ -8,3 +8,9 @@ header {
   display: flex;
   flex-direction: column;
 }
+
+#tooltip {
+  visibility: hidden;
+  height: auto;
+  width: auto;
+}

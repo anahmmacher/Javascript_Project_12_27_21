@@ -29,6 +29,27 @@ document.addEventListener("DOMContentLoaded", () => {
 
     let canvas = d3.select('#map');
 
+
+    var linear = d3.scaleLinear()
+        .domain([0, 10])
+        .range(["rgb(46, 73, 123)", "rgb(71, 187, 94)"]);
+
+    var legend = d3.select("#legend");
+
+    legend.append("g")
+        .attr("class", "legendLinear")
+        .attr("transform", "translate(20,20)");
+
+    var legendLinear = d3.legendColor()
+        .shapeWidth(30)
+        .orient('horizontal')
+        .scale(linear);
+
+    svg.select(".legendLinear")
+        .call(legendLinear);
+
+
+
     let drawMap = () => {
 
         canvas.selectAll('path')
@@ -38,7 +59,6 @@ document.addEventListener("DOMContentLoaded", () => {
                     .attr('d', d3.geoPath()
                     .projection(projection)
                     )
-                    
                     .attr('class', 'country')
                     .attr('fill', (mapDataItem) => {
                         let id = mapDataItem['id']
@@ -60,7 +80,7 @@ document.addEventListener("DOMContentLoaded", () => {
                             } else {
                                 return 'gray'
                             }
-                    });
+                    })
     }
 
     d3.json(mapURL).then(
