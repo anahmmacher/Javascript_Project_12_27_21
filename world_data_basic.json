@@ -642,6 +642,16 @@
               },
               {
                 "dims": {
+                  "COUNTRY": "Falkland Islands",
+                  "ID": "FLK",
+                  "ALCOHOLTYPE": "All types",
+                  "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                  "YEAR": "2019"
+                },
+                "Value": "No data"
+              },
+              {
+                "dims": {
                           "COUNTRY": "Finland",
                           "ID": "FIN",
                           "ALCOHOLTYPE": "All types",
@@ -719,6 +729,16 @@
                           "YEAR": "2019"
                         },
                 "Value": "6.33"
+              },
+              {
+                "dims": {
+                  "COUNTRY": "Greenland",
+                  "ID": "GRL",
+                  "ALCOHOLTYPE": "All types",
+                  "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                  "YEAR": "2019"
+                },
+                "Value": "No Data"
               },
               {
                 "dims": {
@@ -1239,6 +1259,16 @@
                           "YEAR": "2019"
                         },
                 "Value": "8.23"
+              },
+              {
+                "dims": {
+                  "COUNTRY": "New Caledonia",
+                  "ID": "NCL",
+                  "ALCOHOLTYPE": "All types",
+                  "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                  "YEAR": "2019"
+                },
+                "Value": "No Data"
               },
               {
                 "dims": {
