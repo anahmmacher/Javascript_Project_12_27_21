@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
     var projection = d3.geoMercator()
                     .scale(150)
                     .center([0, 50])
-                    .translate([width / 2.1, height / 2.5])
+                    .translate([width / 2.1, height / 2.8])
 
     let canvas = d3.select('#map');
 
