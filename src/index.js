@@ -46,6 +46,7 @@ document.addEventListener("DOMContentLoaded", () => {
                             return item.dims['ID'] === id
                         })
                             let alcoholAvg = country['Value'];
+                            if(alcoholAvg === 'undefined') alcoholAvg = 'No Data'
                             if(alcoholAvg <= 1.00){
                                 return '#fbe7ee'
                             } else if (alcoholAvg <= 4.00){
