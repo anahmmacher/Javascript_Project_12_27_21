@@ -1,0 +1,1884 @@
+{
+    "fact": [
+              {
+                "dims": {
+                          "COUNTRY": "Afghanistan",
+                          "ID": "AFG",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.01"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Albania",
+                          "ID": "ALB",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "4.40"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Algeria",
+                          "ID": "DZA",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.59"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Andorra",
+                          "ID": "AND",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "10.99"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Angola",
+                          "ID": "AGO",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.84"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Antigua and Barbuda",
+                          "ID": "ATG",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "11.88"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Argentina",
+                          "ID": "ARG",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.95"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Armenia",
+                          "ID": "ARM",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.77"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Australia",
+                          "ID": "AUS",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "9.51"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Austria",
+                          "ID": "AUT",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "11.90"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Azerbaijan",
+                          "ID": "AZE",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "1.38"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahamas",
+                          "ID": "BHS",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "9.48"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahrain",
+                          "ID": "BHR",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "1.18"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bangladesh",
+                          "ID": "BGD",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.00"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Barbados",
+                          "ID": "BRB",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "9.94"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belarus",
+                          "ID": "BLR",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "10.57"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belgium",
+                          "ID": "BEL",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "9.15"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belize",
+                          "ID": "BLZ",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.93"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Benin",
+                          "ID": "BEN",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "1.25"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bhutan",
+                          "ID": "BTN",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.07"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bolivia (Plurinational State of)",
+                          "ID": "BOL",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.98"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bosnia and Herzegovina",
+                          "ID": "BIH",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.46"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Botswana",
+                          "ID": "BWA",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.98"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brazil",
+                          "ID": "BRA",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "6.12"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brunei Darussalam",
+                          "ID": "BRN",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.69"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bulgaria",
+                          "ID": "BGR",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "11.18"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burkina Faso",
+                          "ID": "BFA",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.28"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burundi",
+                          "ID": "BDI",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "4.07"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cabo Verde",
+                          "ID": "CPV",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "4.70"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cambodia",
+                          "ID": "KHM",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "4.56"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cameroon",
+                          "ID": "CMR",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "4.09"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Canada",
+                          "ID": "CAN",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "8.00"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Central African Republic",
+                          "ID": "CAF",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.94"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chad",
+                          "ID": "TCD",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.55"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chile",
+                          "ID": "CHL",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.80"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "China",
+                          "ID": "CHN",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "4.48"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Colombia",
+                          "ID": "COL",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "4.09"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Comoros",
+                          "ID": "COM",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.18"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Congo",
+                          "ID": "COG",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.74"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cook Islands",
+                          "ID": "COK",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "12.97"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Costa Rica",
+                          "ID": "CRI",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.07"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Côte d'Ivoire",
+                          "ID": "CIV",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "1.70"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Croatia",
+                          "ID": "HRV",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "9.64"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cuba",
+                          "ID": "CUB",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "4.70"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cyprus",
+                          "ID": "CYP",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "9.59"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Czechia",
+                          "ID": "CZE",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "12.73"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Democratic People's Republic of Korea",
+                          "ID": "PRK",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.61"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Democratic Republic of the Congo",
+                          "ID": "COD",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.56"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Denmark",
+                          "ID": "DNK",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "9.16"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Djibouti",
+                          "ID": "DJI",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.21"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominica",
+                          "ID": "DMA",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "6.32"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominican Republic",
+                          "ID": "DOM",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.56"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ecuador",
+                          "ID": "ECU",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.05"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Egypt",
+                          "ID": "EGY",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.14"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "El Salvador",
+                          "ID": "SLV",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.94"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Equatorial Guinea",
+                          "ID": "GNQ",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "6.11"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eritrea",
+                          "ID": "ERI",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.93"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "ID": "EST",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "11.65"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eswatini",
+                          "ID": "SWZ",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.68"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ethiopia",
+                          "ID": "ETH",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "1.16"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Fiji",
+                          "ID": "FJI",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.71"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "ID": "FIN",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "8.23"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "ID": "FRA",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "11.44"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Gabon",
+                          "ID": "GAB",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "6.47"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Gambia",
+                          "ID": "GMB",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.67"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Georgia",
+                          "ID": "GEO",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.45"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Germany",
+                          "ID": "DEU",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "10.56"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ghana",
+                          "ID": "GHA",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "1.59"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Greece",
+                          "ID": "GRC",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "6.33"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Grenada",
+                          "ID": "GRD",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "8.62"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guatemala",
+                          "ID": "GTM",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "1.63"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea",
+                          "ID": "GIN",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.33"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea-Bissau",
+                          "ID": "GNB",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.21"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guyana",
+                          "ID": "GUY",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.11"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Haiti",
+                          "ID": "HTI",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.85"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Honduras",
+                          "ID": "HND",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.73"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Hungary",
+                          "ID": "HUN",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "10.79"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "ID": "ISL",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.72"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "India",
+                          "ID": "IND",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.09"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Indonesia",
+                          "ID": "IDN",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.08"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iran (Islamic Republic of)",
+                          "ID": "IRN",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.02"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iraq",
+                          "ID": "IRQ",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.16"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ireland",
+                          "ID": "IRL",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "10.91"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Israel",
+                          "ID": "ISR",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.07"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Italy",
+                          "ID": "ITA",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.65"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jamaica",
+                          "ID": "JAM",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.46"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "ID": "JPN",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "8.36"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jordan",
+                          "ID": "JOR",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.25"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kazakhstan",
+                          "ID": "KAZ",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.73"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kenya",
+                          "ID": "KEN",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "1.68"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kiribati",
+                          "ID": "KIR",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.43"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kuwait",
+                          "ID": "KWT",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.00"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kyrgyzstan",
+                          "ID": "KGZ",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "4.02"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lao People's Democratic Republic",
+                          "ID": "LAO",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "8.15"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Latvia",
+                          "ID": "LVA",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "12.90"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lebanon",
+                          "ID": "LBN",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "1.14"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lesotho",
+                          "ID": "LSO",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.56"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Liberia",
+                          "ID": "LBR",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.12"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Libya",
+                          "ID": "LBY",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.01"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lithuania",
+                          "ID": "LTU",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "11.93"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Luxembourg",
+                          "ID": "LUX",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "11.00"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Madagascar",
+                          "ID": "MDG",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.89"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malawi",
+                          "ID": "MWI",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.04"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malaysia",
+                          "ID": "MYS",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.64"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Maldives",
+                          "ID": "MDV",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "1.38"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mali",
+                          "ID": "MLI",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.60"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malta",
+                          "ID": "MLT",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "8.07"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritania",
+                          "ID": "MRT",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.00"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritius",
+                          "ID": "MUS",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.39"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mexico",
+                          "ID": "MEX",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "4.25"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Micronesia (Federated States of)",
+                          "ID": "FMS",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "1.59"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "ID": "MNG",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.46"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Montenegro",
+                          "ID": "MNE",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "9.91"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Morocco",
+                          "ID": "MAR",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.51"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mozambique",
+                          "ID": "MOZ",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "1.46"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Myanmar",
+                          "ID": "MMR",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.06"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Namibia",
+                          "ID": "NAM",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.38"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nauru",
+                          "ID": "NRU",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.44"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nepal",
+                          "ID": "NPL",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.36"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Netherlands",
+                          "ID": "NLD",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "8.23"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "New Zealand",
+                          "ID": "NZL",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "9.17"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nicaragua",
+                          "ID": "NIC",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.69"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Niger",
+                          "ID": "NER",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.11"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nigeria",
+                          "ID": "NGA",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "4.49"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Niue",
+                          "ID": "NIU",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "8.50"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "ID": "NOR",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "6.05"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Oman",
+                          "ID": "OMN",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.47"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Pakistan",
+                          "ID": "PAK",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.04"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Panama",
+                          "ID": "PAN",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "6.54"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Papua New Guinea",
+                          "ID": "PNG",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "1.26"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Paraguay",
+                          "ID": "PRY",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.47"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Peru",
+                          "ID": "PER",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.74"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Philippines",
+                          "ID": "PHL",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "4.85"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Poland",
+                          "ID": "POL",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "10.96"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Portugal",
+                          "ID": "Data source",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "10.37"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Qatar",
+                          "ID": "PRT",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.96"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Korea",
+                          "ID": "KOR",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.74"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Moldova",
+                          "ID": "MDA",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.45"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "North Macedonia",
+                          "ID": "MKD",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.90"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Romania",
+                          "ID": "ROU",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "10.96"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Russian Federation",
+                          "ID": "RUS",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.29"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Rwanda",
+                          "ID": "RWA",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "6.35"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saint Kitts and Nevis",
+                          "ID": "KNA",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "8.84"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saint Lucia",
+                          "ID": "LCA",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "9.30"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saint Vincent and the Grenadines",
+                          "ID": "VCT",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.48"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Samoa",
+                          "ID": "WSM",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.18"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sao Tome and Principe",
+                          "ID": "STP",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "4.23"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saudi Arabia",
+                          "ID": "SAU",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.00"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Senegal",
+                          "ID": "SEN",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.25"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Serbia",
+                          "ID": "SRB",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.45"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Seychelles",
+                          "ID": "SYC",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "9.48"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sierra Leone",
+                          "ID": "SLE",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.22"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "ID": "SGP",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "1.81"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovakia",
+                          "ID": "SVK",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "10.30"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovenia",
+                          "ID": "SVN",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "11.05"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Solomon Islands",
+                          "ID": "SLB",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "1.19"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Somalia",
+                          "ID": "SOM",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.00"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Africa",
+                          "ID": "ZAF",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.21"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Spain",
+                          "ID": "ESP",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "10.73"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sri Lanka",
+                          "ID": "LKA",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.58"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Suriname",
+                          "ID": "SUR",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "6.60"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sweden",
+                          "ID": "SWE",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.10"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Switzerland",
+                          "ID": "CHE",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "9.41"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Syrian Arab Republic",
+                          "ID": "SYR",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.13"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tajikistan",
+                          "ID": "TJK",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.85"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Thailand",
+                          "ID": "THA",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "6.86"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Timor-Leste",
+                          "ID": "TLS",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.41"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Togo",
+                          "ID": "TGO",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "1.40"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tonga",
+                          "ID": "TON",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.31"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Trinidad and Tobago",
+                          "ID": "TTO",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.81"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tunisia",
+                          "ID": "TUN",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "1.51"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkey",
+                          "ID": "TUR",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "1.18"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkmenistan",
+                          "ID": "TKM",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.88"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tuvalu",
+                          "ID": "TUV",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.93"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "ID": "UGA",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "6.82"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ukraine",
+                          "ID": "UKR",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.69"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Arab Emirates",
+                          "ID": "ARE",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.03"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "ID": "GBR",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "9.80"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Republic of Tanzania",
+                          "ID": "TZA",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.81"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United States of America",
+                          "ID": "USA",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "8.93"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uruguay",
+                          "ID": "URY",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.42"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uzbekistan",
+                          "ID": "UZB",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.45"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Vanuatu",
+                          "ID": "VUT",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "1.60"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Venezuela (Bolivarian Republic of)",
+                          "ID": "VEN",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.51"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Viet Nam",
+                          "ID": "VNM",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.41"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Yemen",
+                          "ID": "YEM",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.02"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zambia",
+                          "ID": "ZMB",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.82"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "ID": "ZWE",
+                          "ALCOHOLTYPE": "All types",
+                          "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.11"
+              }
+      ]
+}

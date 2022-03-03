@@ -48,26 +48,3 @@
 //             return colorScale(d.total);
 //         })
 // })
-
-    let mapURL = 'https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson'
-    let alcoholURL = 'https://github.com/anahmmacher/Javascript_Project_12_27_21/blob/main/src/data/test_data.csv'
-
-    let mapData
-    let alcoholData
-
-    let canvas = d3.select('#map');
-
-let drawMap = () => {
-
-    }
-
-d3.json(mapURL).then(
-        (data, error) => {
-            if (error) {
-                console.log(log)
-            } else {
-                mapData = data
-                console.log(mapData)
-            }
-        }
-    )

@@ -1,3 +1,4 @@
+import { topojson } from "chartjs-chart-geo";
 import {dataPojo} from "./test.js"
 // import {fn1} from "./scripts/map_render_script.js"
 
@@ -12,15 +13,39 @@ document.addEventListener("DOMContentLoaded", () => {
 //     console.log(filtered);
     let mapURL = 'https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson'
         
-    let alcoholURL = require('./data/world_data.json')
+    let alcoholURL = 'https://raw.githubusercontent.com/anahmmacher/Javascript_Project_12_27_21/main/world_data_copy.json'
 
     let mapData
     let alcoholData
+
+    var svg = d3.select("#map"),
+     width = +svg.attr("width"),
+     height = +svg.attr("height");
+
+    var projection = d3.geoMercator()
+                    .scale(70)
+                    .center([0, 20])
+                    .translate([width / 2, height / 2])
 
     let canvas = d3.select('#map');
 
     let drawMap = () => {
 
+        canvas.selectAll('path')
+                    .data(mapData)
+                    .enter()
+                    .append('path')
+                    .attr('d', d3.geoPath()
+                    .projection(projection)
+                    )
+                    
+                    .attr('class', 'country')
+                    .attr('fill', (mapDataItem) => {
+                        let id = mapDataItem['id']
+                        let country = alcoholData.find((item)=> {
+                            
+                        })
+                    })
     }
 
     d3.json(mapURL).then(
@@ -28,7 +53,7 @@ document.addEventListener("DOMContentLoaded", () => {
             if (error) {
                 console.log(log)
             } else {
-                mapData = data
+                mapData = data.features
                 console.log(mapData)
 
                 d3.json(alcoholURL).then(
@@ -36,8 +61,9 @@ document.addEventListener("DOMContentLoaded", () => {
                         if(error){
                             console.log(error)
                         }else{
-                            alcoholData = data
+                            alcoholData = data.fact
                             console.log(alcoholData)
+                            drawMap()
                         }
                     }
                 )
