@@ -1,4 +1,4 @@
-,,,"Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol) -2019"
+,,,"Alcohol recorded per capita (15+) consumption (in litres of pure alcohol) -2019"
 Country,code,Beverage Types,Liters
 Afghanistan,AFG,All types,0.01
 Albania,ALB,All types,4.4
@@ -70,7 +70,7 @@ Germany,DEU,All types,10.56
 Ghana,GHA,All types,1.59
 Greece,GRC,All types,6.33
 Grenada,GRD,All types,8.62
-Guatemala,GLP,All types,1.63
+Guatemala,GTM,All types,1.63
 Guinea,GIN,All types,0.33
 Guinea-Bissau,GNB,All types,3.21
 Guyana,GUY,All types,5.11
