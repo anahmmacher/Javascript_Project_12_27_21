@@ -9,31 +9,39 @@ header {
   flex-direction: column;
 }
 
+#legend {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: medium;
+  border: black, solid, 1px;
+}
+
 #no_data {
   background-color: gray;
+  padding: 2px;
 }
 
 #l1 {
   background-color: #fbe7ee;
-  padding: 1px;
+  padding: 2px;
 }
 
 #l2 {
   background-color: #f4b7cd;
-  padding: 1px;
+  padding: 2px;
 }
 
 #l3 {
   background-color: #ec87ac;
-  padding: 1px;
+  padding: 2px;
 }
 
 #l4 {
   background-color: #e4578b;
-  padding: 1px;
+  padding: 2px;
 }
 
 #l5 {
   background-color: #dd276a;
-  padding: 1px;
+  padding: 2px;
 }
