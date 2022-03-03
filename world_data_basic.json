@@ -82,6 +82,26 @@
               },
               {
                 "dims": {
+                  "COUNTRY": "Antartica",
+                  "ID": "ATA",
+                  "ALCOHOLTYPE": "All types",
+                  "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                  "YEAR": "2019"
+                },
+                "Value": "No Data"
+              },
+              {
+                "dims": {
+                  "COUNTRY": "French Southern and Antarctic Lands",
+                  "ID": "ATF",
+                  "ALCOHOLTYPE": "All types",
+                  "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                  "YEAR": "2019"
+                },
+                "Value": "No Data"
+              },
+              {
+                "dims": {
                           "COUNTRY": "Australia",
                           "ID": "AUS",
                           "ALCOHOLTYPE": "All types",

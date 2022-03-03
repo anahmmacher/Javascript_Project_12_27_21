@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
 //     console.log(filtered);
     let mapURL = 'https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson'
         
-    let alcoholURL = 'https://raw.githubusercontent.com/anahmmacher/Javascript_Project_12_27_21/main/world_data_copy.json'
+    let alcoholURL = 'https://raw.githubusercontent.com/anahmmacher/Javascript_Project_12_27_21/main/world_data_basic.json'
 
     let mapData
     let alcoholData
@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
      height = +svg.attr("height");
 
     var projection = d3.geoMercator()
-                    .scale(70)
+                    .scale(100)
                     .center([0, 20])
                     .translate([width / 2, height / 2])
 
@@ -43,9 +43,23 @@ document.addEventListener("DOMContentLoaded", () => {
                     .attr('fill', (mapDataItem) => {
                         let id = mapDataItem['id']
                         let country = alcoholData.find((item)=> {
-                            
+                            return item.dims['ID'] === id
                         })
-                    })
+                            let alcoholAvg = country['Value'];
+                            if(alcoholAvg <= 1.00){
+                                return '#fbe7ee'
+                            } else if (alcoholAvg <= 4.00){
+                                return '#f4b7cd'
+                            } else if (alcoholAvg <= 7.00){
+                                return '#ec87ac'
+                            } else if (alcoholAvg <= 10.00){
+                                return '#e4578b'
+                            } else if (alcoholAvg <= 14.00){
+                                return '#dd276a'
+                            } else {
+                                return 'gray'
+                            }
+                    });
     }
 
     d3.json(mapURL).then(
