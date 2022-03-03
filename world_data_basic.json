@@ -1550,6 +1550,16 @@
                         },
                 "Value": "4.23"
               },
+                {
+                  "dims": {
+                    "COUNTRY": "Western Sahara",
+                    "ID": "ESH",
+                    "ALCOHOLTYPE": "All types",
+                    "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
+                    "YEAR": "2019"
+                  },
+                  "Value": "No Data"
+                },
               {
                 "dims": {
                           "COUNTRY": "Saudi Arabia",
@@ -1974,16 +1984,6 @@
                 "dims": {
                   "COUNTRY": "West Bank",
                   "ID": "PSE",
-                  "ALCOHOLTYPE": "All types",
-                  "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
-                  "YEAR": "2019"
-                },
-                "Value": "No Data"
-              },
-              {
-                "dims": {
-                  "COUNTRY": "Western Sahara",
-                  "ID": "ESH",
                   "ALCOHOLTYPE": "All types",
                   "GHO": "Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",
                   "YEAR": "2019"
