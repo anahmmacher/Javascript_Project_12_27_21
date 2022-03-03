@@ -8,3 +8,32 @@ header {
   display: flex;
   flex-direction: column;
 }
+
+#no_data {
+  background-color: gray;
+}
+
+#l1 {
+  background-color: #fbe7ee;
+  padding: 1px;
+}
+
+#l2 {
+  background-color: #f4b7cd;
+  padding: 1px;
+}
+
+#l3 {
+  background-color: #ec87ac;
+  padding: 1px;
+}
+
+#l4 {
+  background-color: #e4578b;
+  padding: 1px;
+}
+
+#l5 {
+  background-color: #dd276a;
+  padding: 1px;
+}
