@@ -44,8 +44,12 @@ header {
     padding: 2px;
 }
 
-div {
+.map-container {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.project-legend {
+ display: grid;
 }
