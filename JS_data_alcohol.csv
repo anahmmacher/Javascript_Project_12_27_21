@@ -1,0 +1,203 @@
+SpatialDimValueCode,Location,FactValueNumeric
+AFG,Afghanistan,0.01
+ALB,Albania,4.40
+DZA,Algeria,0.59
+AND,Andorra,10.99
+AGO,Angola,5.84
+ATG,Antigua and Barbuda,11.88
+ARG,Argentina,7.95
+ARM,Armenia,3.77
+ATA,Antartica,No Data
+ATF,French Southern and Antarctic Lands,No Data
+AUS,Australia,9.51
+AUT,Austria,11.90
+AZE,Azerbaijan,1.38
+BHS,Bahamas,9.48
+BHR,Bahrain,1.18
+BGD,Bangladesh,0.00
+BRB,Barbados,9.94
+BLR,Belarus,10.57
+BEL,Belgium,9.15
+BLZ,Belize,5.93
+BEN,Benin,1.25
+BTN,Bhutan,0.07
+BOL,Bolivia (Plurinational State of),2.98
+BIH,Bosnia and Herzegovina,5.46
+BWA,Botswana,5.98
+BRA,Brazil,6.12
+BRN,Brunei Darussalam,0.69
+BGR,Bulgaria,11.18
+BFA,Burkina Faso,7.28
+BDI,Burundi,4.07
+CPV,Cabo Verde,4.70
+KHM,Cambodia,4.56
+CMR,Cameroon,4.09
+CAN,Canada,8.00
+CAF,Central African Republic,0.94
+TCD,Chad,0.55
+CHL,Chile,7.80
+CHN,China,4.48
+COL,Colombia,4.09
+COM,Comoros,0.18
+COG,Congo,5.74
+COK,Cook Islands,12.97
+CRI,Costa Rica,3.07
+CIV,Côte d’Ivoire,1.70
+HRV,Croatia,9.64
+CUB,Cuba,4.70
+CYP,Cyprus,9.59
+-99,Northern Cyprus,No Data
+CZE,Czechia,12.73
+PRK,Democratic People's Republic of Korea,3.61
+COD,Democratic Republic of the Congo,0.56
+DNK,Denmark,9.16
+DJI,Djibouti,0.21
+DMA,Dominica,6.32
+DOM,Dominican Republic,5.56
+ECU,Ecuador,3.05
+EGY,Egypt,0.14
+SLV,El Salvador,2.94
+GNQ,Equatorial Guinea,6.11
+ERI,Eritrea,0.93
+EST,Estonia,11.65
+SWZ,Eswatini,7.68
+ETH,Ethiopia,1.16
+FJI,Fiji,2.71
+FLK,Falkland Islands,No Data
+FIN,Finland,8.23
+FRA,France,11.44
+GAB,Gabon,6.47
+GMB,Gambia,2.67
+GEO,Georgia,7.45
+DEU,Germany,10.56
+GHA,Ghana,1.59
+GRC,Greece,6.33
+GRL,Greenland,No Data
+GRD,Grenada,8.62
+GTM,Guatemala,1.63
+GIN,Guinea,0.33
+GNB,Guinea-Bissau,3.21
+GUY,Guyana,5.11
+HTI,Haiti,2.85
+HND,Honduras,2.73
+HUN,Hungary,10.79
+ISL,Iceland,7.72
+IND,India,3.09
+IDN,Indonesia,0.08
+IRN,Iran (Islamic Republic of),0.02
+IRQ,Iraq,0.16
+IRL,Ireland,10.91
+ISR,Israel,3.07
+ITA,Italy,7.65
+JAM,Jamaica,3.46
+JPN,Japan,8.36
+JOR,Jordan,0.25
+KAZ,Kazakhstan,3.73
+KEN,Kenya,1.68
+KIR,Kiribati,0.43
+OSA,Kosovo,No Data
+KWT,Kuwait,0.00
+KGZ,Kyrgyzstan,4.02
+LAO,Lao People's Democratic Republic,8.15
+LVA,Latvia,12.90
+LBN,Lebanon,1.14
+LSO,Lesotho,3.56
+LBR,Liberia,3.12
+LBY,Libya,0.01
+LTU,Lithuania,11.93
+LUX,Luxembourg,11.00
+MDG,Madagascar,0.89
+MWI,Malawi,2.04
+MYS,Malaysia,0.64
+MDV,Maldives,1.38
+MLI,Mali,0.60
+MLT,Malta,8.07
+MRT,Mauritania,0.00
+MUS,Mauritius,3.39
+MEX,Mexico,4.25
+FSM,Micronesia (Federated States of),1.59
+MNG,Mongolia,5.46
+MNE,Montenegro,9.91
+MAR,Morocco,0.51
+MOZ,Mozambique,1.46
+MMR,Myanmar,2.06
+NAM,Namibia,2.38
+NRU,Nauru,2.44
+NPL,Nepal,0.36
+NLD,Netherlands,8.23
+NCL,New Caledonia,No Data
+NZL,New Zealand,9.17
+NIC,Nicaragua,3.69
+NER,Niger,0.11
+NGA,Nigeria,4.49
+NIU,Niue,8.50
+NOR,Norway,6.05
+OMN,Oman,0.47
+PAK,Pakistan,0.04
+PAN,Panama,6.54
+PNG,Papua New Guinea,1.26
+PRY,Paraguay,5.47
+PER,Peru,5.74
+PHL,Philippines,4.85
+POL,Poland,10.96
+PRT,Portugal,10.37
+PRI,Puerto Rico,No Data
+QAT,Qatar,0.96
+KOR,Republic of Korea,7.74
+MDA,Republic of Moldova,7.45
+ROU,Romania,10.96
+RUS,Russian Federation,7.29
+RWA,Rwanda,6.35
+KNA,Saint Kitts and Nevis,8.84
+LCA,Saint Lucia,9.30
+VCT,Saint Vincent and the Grenadines,7.48
+WSM,Samoa,2.18
+STP,Sao Tome and Principe,4.23
+ESH,Western Sahara,No Data
+SAU,Saudi Arabia,0.00
+SEN,Senegal,0.25
+SDS,South Sudan,No Data
+ABV,Somaliland,No Data
+SRB,Serbia,7.45
+SYC,Seychelles,9.48
+SLE,Sierra Leone,3.22
+SGP,Singapore,1.81
+SVK,Slovakia,10.30
+SVN,Slovenia,11.05
+SLB,Solomon Islands,1.19
+SOM,Somalia,0.00
+ZAF,South Africa,7.21
+ESP,Spain,10.73
+LKA,Sri Lanka,2.58
+SDN,Sudan,1.93
+SUR,Suriname,6.60
+SWE,Sweden,7.10
+CHE,Switzerland,9.41
+SYR,Syrian Arab Republic,0.13
+TJK,Tajikistan,0.85
+TWN,Taiwan,No Data
+THA,Thailand,6.86
+MKD,North Macedonia,3.90
+TLS,Timor-Leste,0.41
+TGO,Togo,1.40
+TON,Tonga,0.31
+TTO,Trinidad and Tobago,5.81
+TUN,Tunisia,1.51
+TUR,Turkey,1.18
+TKM,Turkmenistan,2.88
+TUV,Tuvalu,0.93
+UGA,Uganda,6.82
+UKR,Ukraine,5.69
+ARE,United Arab Emirates,2.03
+GBR,United Kingdom of Great Britain and Northern Ireland,9.80
+TZA,United Republic of Tanzania,7.81
+USA,United States of America,8.93
+URY,Uruguay,5.42
+UZB,Uzbekistan,2.45
+VUT,Vanuatu,1.60
+VEN,Venezuela (Bolivarian Republic of),2.51
+VNM,Viet Nam,3.41
+PSE,West Bank,No Data
+YEM,Yemen,0.02
+ZMB,Zambia,3.82
+ZWE,Zimbabwe,3.11
