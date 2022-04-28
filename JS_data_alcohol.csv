@@ -7,8 +7,8 @@ AGO,Angola,5.84
 ATG,Antigua and Barbuda,11.88
 ARG,Argentina,7.95
 ARM,Armenia,3.77
-ATA,Antartica,
-ATF,French Southern and Antarctic Lands,
+ATA,Antartica,NaN
+ATF,French Southern and Antarctic Lands,NaN
 AUS,Australia,9.51
 AUT,Austria,11.9
 AZE,Azerbaijan,1.38
@@ -46,7 +46,7 @@ CIV,C�te d�Ivoire,1.7
 HRV,Croatia,9.64
 CUB,Cuba,4.7
 CYP,Cyprus,9.59
--99,Northern Cyprus,
+-99,Northern Cyprus,NaN
 CZE,Czechia,12.73
 PRK,Democratic People's Republic of Korea,3.61
 COD,Democratic Republic of the Congo,0.56
@@ -63,7 +63,7 @@ EST,Estonia,11.65
 SWZ,Eswatini,7.68
 ETH,Ethiopia,1.16
 FJI,Fiji,2.71
-FLK,Falkland Islands,
+FLK,Falkland Islands,NaN
 FIN,Finland,8.23
 FRA,France,11.44
 GAB,Gabon,6.47
@@ -72,7 +72,7 @@ GEO,Georgia,7.45
 DEU,Germany,10.56
 GHA,Ghana,1.59
 GRC,Greece,6.33
-GRL,Greenland,
+GRL,Greenland,NaN
 GRD,Grenada,8.62
 GTM,Guatemala,1.63
 GIN,Guinea,0.33
@@ -95,7 +95,7 @@ JOR,Jordan,0.25
 KAZ,Kazakhstan,3.73
 KEN,Kenya,1.68
 KIR,Kiribati,0.43
-OSA,Kosovo,
+OSA,Kosovo,NaN
 KWT,Kuwait,0
 KGZ,Kyrgyzstan,4.02
 LAO,Lao People's Democratic Republic,8.15
@@ -125,7 +125,7 @@ NAM,Namibia,2.38
 NRU,Nauru,2.44
 NPL,Nepal,0.36
 NLD,Netherlands,8.23
-NCL,New Caledonia,
+NCL,New Caledonia,NaN
 NZL,New Zealand,9.17
 NIC,Nicaragua,3.69
 NER,Niger,0.11
@@ -141,7 +141,7 @@ PER,Peru,5.74
 PHL,Philippines,4.85
 POL,Poland,10.96
 PRT,Portugal,10.37
-PRI,Puerto Rico,
+PRI,Puerto Rico,NaN
 QAT,Qatar,0.96
 KOR,Republic of Korea,7.74
 MDA,Republic of Moldova,7.45
@@ -153,11 +153,11 @@ LCA,Saint Lucia,9.3
 VCT,Saint Vincent and the Grenadines,7.48
 WSM,Samoa,2.18
 STP,Sao Tome and Principe,4.23
-ESH,Western Sahara,
+ESH,Western Sahara,NaN
 SAU,Saudi Arabia,0
 SEN,Senegal,0.25
-SDS,South Sudan,
-ABV,Somaliland,
+SDS,South Sudan,NaN
+ABV,Somaliland,NaN
 SRB,Serbia,7.45
 SYC,Seychelles,9.48
 SLE,Sierra Leone,3.22
@@ -175,7 +175,7 @@ SWE,Sweden,7.1
 CHE,Switzerland,9.41
 SYR,Syrian Arab Republic,0.13
 TJK,Tajikistan,0.85
-TWN,Taiwan,
+TWN,Taiwan,NaN
 THA,Thailand,6.86
 MKD,North Macedonia,3.9
 TLS,Timor-Leste,0.41
@@ -197,7 +197,7 @@ UZB,Uzbekistan,2.45
 VUT,Vanuatu,1.6
 VEN,Venezuela (Bolivarian Republic of),2.51
 VNM,Viet Nam,3.41
-PSE,West Bank,
+PSE,West Bank,NaN
 YEM,Yemen,0.02
 ZMB,Zambia,3.82
 ZWE,Zimbabwe,3.11
