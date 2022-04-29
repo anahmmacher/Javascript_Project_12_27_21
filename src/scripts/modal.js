@@ -1,4 +1,4 @@
-document.addEventListener("click", (event) => {
+    document.addEventListener("click", (event) => {
     if (!event.target.matches('.modal-close')) return;
     event.preventDefault();
 
@@ -7,4 +7,4 @@ document.addEventListener("click", (event) => {
     if (is_open) {
         is_open.classList.remove('is-open');
     }
-})
+});

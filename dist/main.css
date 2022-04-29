@@ -1,8 +1,138 @@
-/*!*************************************************************************************************************************************!*\
-  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/sass-loader/dist/cjs.js!./src/index.scss ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/sass-loader/dist/cjs.js!./src/styles/index.scss ***!
+  \********************************************************************************************************************************************/
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
 
-  header {
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+header {
   background-color: whitesmoke;
   border: 1px, solid, black;
   font-family: Arial, Helvetica, sans-serif;
@@ -10,52 +140,23 @@
   flex-direction: column;
 }
 
-#legend {
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: bold;
-  font-size: medium;
-  border: black, solid, 1px;
-}
-
-#no_data {
-  background-color: #808080;
-  padding: 2px;
-}
-
-#l1 {
-  background-color: #fbe7ee;
-  padding: 2px;
-}
-
-#l2 {
-  background-color: #f4b7cd;
-  padding: 2px;
-}
-
-#l3 {
-  background-color: #ec87ac;
-  padding: 2px;
-}
-
-#l4 {
-  background-color: #e4578b;
-  padding: 2px;
-}
-
-#l5 {
-  background-color: #dd276a;
-  padding: 2px;
+#content {
+  display: flex;
+  flex-direction: row;
+  align-content: space-around;
 }
 
 .map-container {
   display: flex;
   justify-content: center;
   align-items: center;
+  border: #730303, solid, 1px;
 }
 
 .project-legend {
   display: grid;
 }
+
 .modal {
   display: none;
 }
@@ -88,7 +189,7 @@
 }
 
 .modal-title {
-  font-family: 'Alata', sans-serif;
+  font-family: "Alata", sans-serif;
   font-size: 50px;
   font-weight: 700;
   letter-spacing: 1px;
@@ -96,7 +197,7 @@
   margin-bottom: 5px;
 }
 
-.modal-text>h2 {
+.modal-text > h2 {
   font-size: 14px;
   padding: 0px 20px;
   line-height: 22px;
@@ -104,7 +205,7 @@
   margin-bottom: 20px;
 }
 
-.modal-text>p {
+.modal-text > p {
   font-size: 18px;
   padding: 0px 30px;
   line-height: 22px;
@@ -119,7 +220,7 @@
   border: 1px solid transparent;
   border-radius: 10px;
   padding: 12px;
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 16px;
   transition: all 0.4s ease;
   margin-top: 20px;
@@ -133,4 +234,60 @@
   background-color: #75B4A3;
   border: 1px solid #2f574c;
   transition: all 0.4s ease;
+}
+
+.not-visible {
+  visibility: hidden;
+}
+
+#alcohol-converter {
+  border-radius: 25px;
+  background-color: lightpink;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
+  width: auto;
+  max-width: 600px;
+}
+
+#cal-title {
+  color: maroon;
+  align-self: center;
+  font-size: large;
+}
+
+.results > span {
+  color: red;
+  font-weight: bold;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  border-radius: 25px;
+  height: auto;
+  width: auto;
+  max-width: 300px;
+  max-height: 300px;
+}
+
+p {
+  width: 380px;
+  text-align: center;
+}
+
+.results {
+  font-size: larger;
+}
+
+body > div {
+  align-self: center;
+}
+
+h1 {
+  font-size: x-large;
 }

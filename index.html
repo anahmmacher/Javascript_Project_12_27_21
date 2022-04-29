@@ -6,12 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>That's a Lot of Cups!</title>
     <link rel="icon" type="icon" href="https://img.icons8.com/ios-glyphs/30/fa314a/solo-cup.png"/>
-    <link rel="stylesheet" href="./src/styles/reset.scss" />
     <link rel="stylesheet" href="./dist/main.css" />
-    <link rel="stylesheet" href="./src/index.scss" />
-    <link rel="stylesheet" href="./src/modal.scss" />
     <script src="./dist/main.js"></script>
-    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://d3js.org/d3-geo.v1.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="https://d3js.org/d3-geo-projection.v3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js"></script>
+    <script type="module" src="./src/index.js"></script>
     <script async defer src="https://buttons.github.io/buttons.js"></script>
 
 </head>
@@ -22,14 +24,40 @@
     <!-- Place this tag where you want the button to render. -->
     <a class="github-button" href="https://github.com/anahmmacher" aria-label="Follow @anahmmacher on GitHub"></a>
     </header>
-            <div class="project-legend">
-            <p id="map_header">The source of this data is the <a href="https://apps.who.int/gho/data/node.main.A1039?lang=en">WHO</a>. This map covers the year 2019</p>
-            <p id="legend"> Legend: <span id="no_data">No Data </span><span id="l1">  Less Than 1.00 L  </span> <span id="l2">  Less Than 4.00 L  </span> 
-            <span id="l3">  Less Than 7.00 L  </span> <span id="l4">  Less Than 10.00 L  </span> <span id="l5">  Less Than 14.00 L  </span></p>
-            </div>
+        <br>
+        <div id="content">
+        <div id="alcohol-converter">
+            <h2 id="cal-title">Red Cup - Alcohol Converter</h2>
+            <br>
+            <p>Since most people don't drink pure alcohol, use the converter below to figure out how many red cups of different
+                types of alcoholic beverages you would have to drink to equal the amount in pure alcohol.</p>
+            <img src="red_cup_lines.png">
+            <p>We're using red cups as a visual repersentation because the ridges on the sides align with indicated standard
+                drink amounts of different varieties of alcohol.</p>
+            <form id="converterForm">
+                <label for="alcohol-amount">Alcohol amount (in Liters):</label>
+                <input type="number" step="any" id="alcohol-amount">
+                <label for="alcohol-type">Alcohol Types:</label>
+                <select id="alcohol-type" name="alcohol-type">
+                    <option value="default1" selected="selected">Select a type of alcohol</option>
+                    <option value="beer">Beer</option>
+                    <option value="wine">Wine</option>
+                    <option value="spirits">Spirits</option>
+                </select>
+                <label for="cup-amount">Red Cup Serving Size:</label>
+                <select id="cup-amount" name="cup-amount">
+                    <option value="default2" selected="selected">Select cup serving amount</option>
+                    <option value="standard-drink">indicated standard drink size</option>
+                    <option value="full-cup">full cup</option>
+                </select>
+                <input type="button" class="btn" value="How many cups?">
+            </form>
+            <br>
+            <p class="results not-visible">That comes out to <span></span>red cups!</p>
+        </div>
         <div class="map-container"><svg id="map" width="800" height="600"></svg></div>
         <script src="./src/scripts/map_render_script.js"></script>
-        
+        </div>
         <div class="modal is-open">
             <div class="modal-text">
                 <h1 class="modal-title">That's a Lot of Cups</h1>
@@ -39,7 +67,7 @@
                 <button class="modal-close">Click to Continue</button>
             </div>
             <div class="modal-screen"></div>
-            <script src="./src/modal.js"></script>
+            <script src="./src/scripts/modal.js"></script>
         </div>
 </body>
 </html>
