@@ -1,6 +1,6 @@
 import {alcoholCalculator} from "./calculator.js"
 
-document.addEventListener("click", (e) =>{
+export const cal = document.addEventListener("click", (e) =>{
     if(e.target.matches('.btn')) {
         e.preventDefault();
 

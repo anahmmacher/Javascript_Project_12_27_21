@@ -2,12 +2,17 @@
 import {dataPojo} from "./test.js"
 import {modal} from "./scripts/modal"
 import {aMap} from "./scripts/map_render_script.js"
-
+import {alcoholCalculator} from "./scripts/calculator.js"
+import {cal} from "./scripts/form-script.js"
 
 
 document.addEventListener("DOMContentLoaded", () => { 
     aMap();
     modal();
+    alcoholCalculator();
+    cal();
+
+
 })
 // //     console.log(filtered);
 //     let mapURL = 'https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson'

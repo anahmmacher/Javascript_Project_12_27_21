@@ -5,6 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>That's a Lot of Cups!</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@700;800;900&family=Roboto:wght@300;400;700&display=swap"
+    rel="stylesheet">
     <link rel="icon" type="icon" href="https://img.icons8.com/ios-glyphs/30/fa314a/solo-cup.png"/>
     <link rel="stylesheet" href="./dist/main.css" />
     <script src="./dist/main.js"></script>
@@ -15,12 +19,11 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js"></script>
     <script type="module" src="./src/index.js"></script>
     <script async defer src="https://buttons.github.io/buttons.js"></script>
-
 </head>
 <body>
     <header>
     <h1>That's a Lot of Cups: Alcohol Consumption by Country</h1>
-    <p>by Arthur Nahmmacher</p>
+    <p id="name">by Arthur Nahmmacher</p>
     <!-- Place this tag where you want the button to render. -->
     <a class="github-button" href="https://github.com/anahmmacher" aria-label="Follow @anahmmacher on GitHub"></a>
     </header>
@@ -29,11 +32,14 @@
         <div id="alcohol-converter">
             <h2 id="cal-title">Red Cup - Alcohol Converter</h2>
             <br>
-            <p>Since most people don't drink pure alcohol, use the converter below to figure out how many red cups of different
+            <p class="cal-p">Since most people don't drink pure alcohol, use the converter below to figure out how many red cups of different
                 types of alcoholic beverages you would have to drink to equal the amount in pure alcohol.</p>
-            <img src="red_cup_lines.png">
-            <p>We're using red cups as a visual repersentation because the ridges on the sides align with indicated standard
+                <br>
+            <img src="https://raw.githubusercontent.com/anahmmacher/Javascript_Project_12_27_21/main/red_cup_lines.png">
+            <br>
+            <p class="cal-p">We're using red cups as a visual repersentation because the ridges on the sides align with indicated standard
                 drink amounts of different varieties of alcohol.</p>
+                <br>
             <form id="converterForm">
                 <label for="alcohol-amount">Alcohol amount (in Liters):</label>
                 <input type="number" step="any" id="alcohol-amount">
@@ -50,19 +56,22 @@
                     <option value="standard-drink">indicated standard drink size</option>
                     <option value="full-cup">full cup</option>
                 </select>
+                <br>
                 <input type="button" class="btn" value="How many cups?">
             </form>
             <br>
             <p class="results not-visible">That comes out to <span></span>red cups!</p>
         </div>
-        <div class="map-container"><svg id="map" width="800" height="600"></svg></div>
-        <script src="./src/scripts/map_render_script.js"></script>
+        <div id="tooltip"></div>
+        <div class="map-container"><svg id="map" width="1500" height="600"></svg></div>
+        <script type="module" src="./src/scripts/map_render_script.js"></script>
         </div>
         <div class="modal is-open">
             <div class="modal-text">
                 <h1 class="modal-title">That's a Lot of Cups</h1>
                 <h3>Designed and developed by Arthur Nahmmacher</h3>
-                <p>Welcome to a data visualization website that displays average alcohol consuption around the world by country.
+                <br>
+                <p id="modal-p">Welcome to a data visualization website that displays average alcohol consuption around the world by country. Hover with your mouse to see the findings and use the converter see the results in red cups.
                 </p>
                 <button class="modal-close">Click to Continue</button>
             </div>

@@ -1,10 +1,10 @@
-var Promise = require('es6-promise').Promise;
+
 
 export function aMap() {
 
 // set the dimensions and margins of the graph
-var margin = {top: 20, right: 10, bottom: 40, left: 100},
-    width = 900 - margin.left - margin.right,
+var margin = {top: 20, right: 10, bottom: 60, left: 20},
+    width = 990 - margin.left - margin.right,
     height = 550 - margin.top - margin.bottom;
 
 // The svg
@@ -36,9 +36,9 @@ var projection = d3.geoRobinson()
 //data and color scale
 var data = d3.map();
 
-var domain = [0.00, 1.00, 4.00, 7.00, 10.00, 16.00]
+var domain = [1.00, 4.00, 7.00, 10.00]
 var labels = ["< 1.00 L", "1.01 L - 4.00 L", "4.01 L - 7.00 L", "7.01 L - 10.00 L",  "> 10.01 L", ]
-var range = ["#fbe7ee","#fab7cd", "#ec87ac", "#e4578b", "#dd276a"]
+var range = ["#f7ccdb","#ec87ac", "#dd276a", "#a0194b", "400a1e"]
 var colorScale = d3.scaleThreshold()
   .domain(domain)
   .range(range)
@@ -87,9 +87,6 @@ let mouseOver = function(d) {
           	.style("left", (d3.event.pageX) + "px")		
           	.style("top", (d3.event.pageY - 28) + "px")
             .html(`<p>${d.properties.name}: <span id="codata">${d3.format(".2f")(d.total)}</span></p>`) ;
-          	
-        d3.select("#annotation")
-    	.style("opacity", 0) 	
     }
 
     let mouseLeave = function(d) {

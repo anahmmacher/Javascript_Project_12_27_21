@@ -104,6 +104,9 @@ section {
 
 body {
     line-height: 1; 
+    background-color: rgb(250, 202, 202);
+    font-family: 'Roboto',
+    sans-serif;
 }
 
 ol,
@@ -131,10 +134,14 @@ table {
 
 header {
     background-color: whitesmoke;
+    border-radius: 25px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 15px;
+    padding: 15px;
     border: 1px, solid, black;
-    font-family: Arial, Helvetica, sans-serif;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 
 }
 
@@ -148,7 +155,9 @@ align-content: space-around;
     display: flex;
     justify-content: center;
     align-items: center;
-    border: #730303, solid, 1px;
+    background-color: aliceblue;
+    border-radius: 25px;
+    margin-bottom: 20px;
 }
 
 .project-legend {
@@ -188,7 +197,7 @@ align-content: space-around;
 }
 
 .modal-title {
-    font-family: 'Alata', sans-serif;
+    font-family: 'Archivo', sans-serif;
     font-size: 50px;
     font-weight: 700;
     letter-spacing: 1px;
@@ -219,7 +228,6 @@ align-content: space-around;
     border: 1px solid transparent;
     border-radius: 10px;
     padding: 12px;
-    font-family: 'Raleway', sans-serif;
     font-size: 16px;
     transition: all 0.4s ease;
     margin-top: 20px;
@@ -229,9 +237,9 @@ align-content: space-around;
 
 .modal-close:hover {
     cursor: pointer;
-    color: #2f574c;
-    background-color: #75B4A3;
-    border: 1px solid #2f574c;
+    color: #730303;
+    background-color: #ff9b9b;
+    border: 1px solid #572f2f;
     transition: all 0.4s ease;
 }
 
@@ -245,18 +253,19 @@ align-content: space-around;
     display: flex;
     align-items: center;
     flex-direction: column;
-    font-family: Arial, Helvetica, sans-serif;
     width: auto;
     max-width: 600px;
-    padding: 5px;
+    padding: 15px;
     margin-left: 30px;
     margin-right: 30px;
+    margin-bottom: 20px;
 }
 
 #cal-title {
     color: maroon;
     align-self: center;
-    font-size: large;
+    font-size: 30px;
+    font-family: 'Archivo', sans-serif;
 }
 
 .results>span {
@@ -277,9 +286,10 @@ img {
     max-height: 300px;
 }
 
-p {
+.cal-p {
     width: 380px;
     text-align: center;
+    line-height: 1.2;
 }
 
 .results {
@@ -291,5 +301,16 @@ body > div {
 }
 
 h1{
-    font-size: x-large;
+    font-size: 50px;
+    font-family: 'Archivo', sans-serif;
+}
+
+#map{
+    font-family: 'Archivo', sans-serif;
+}
+
+#modal-p{
+    font-family: 'Archivo',
+    sans-serif;
+    font-size: smaller;
 }

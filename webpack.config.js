@@ -41,6 +41,8 @@ const config = {
     plugins: [new MiniCssExtractPlugin()],
 };
 
+require('es6-promise').polyfill();
+
 module.exports = (env, argv) => {
     if (argv.mode === 'production') {
         config.devtool = 'source-map';
