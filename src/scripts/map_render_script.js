@@ -143,4 +143,12 @@ let mouseOver = function(d) {
      svg.select(".legendQuant")
   		.call(legend);
 
+    svg.append("text")
+        .attr("x", (width / 2))             
+        .attr("y", 25)
+        .attr("text-anchor", "middle")  
+        .style("font-size", "20px")
+        .style("font-weight", "bold")   
+        .text("Recorded Alcohol per Capita Consumption - 2019 *");
+
 })};

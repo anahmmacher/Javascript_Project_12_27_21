@@ -140,10 +140,13 @@ header {
   margin-left: 30px;
   margin-right: 30px;
   margin-top: 15px;
-  padding: 15px;
-  border: 1px, solid, black;
+  padding: 25px;
+  border: 1px solid black;
   display: flex;
   flex-direction: row;
+  justify-content: last baseline;
+  align-items: flex-end;
+  max-width: 1680px;
 }
 
 #content {
@@ -154,11 +157,13 @@ header {
 
 .map-container {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   background-color: aliceblue;
   border-radius: 25px;
   margin-bottom: 20px;
+  border: 1px solid black;
 }
 
 .project-legend {
@@ -259,6 +264,7 @@ header {
   margin-left: 30px;
   margin-right: 30px;
   margin-bottom: 20px;
+  border: 1px solid black;
 }
 
 #cal-title {
@@ -278,7 +284,7 @@ form {
   flex-direction: column;
 }
 
-img {
+#cups-img {
   border-radius: 25px;
   height: auto;
   width: auto;
@@ -303,6 +309,7 @@ body > div {
 h1 {
   font-size: 50px;
   font-family: "Archivo", sans-serif;
+  font-weight: 700;
 }
 
 #map {
@@ -312,4 +319,50 @@ h1 {
 #modal-p {
   font-family: "Archivo", sans-serif;
   font-size: smaller;
+}
+
+#about-me-links {
+  margin-left: 30px;
+  margin-bottom: 5px;
+  align-self: flex-end;
+  justify-self: flex-end;
+  display: flex;
+  flex-direction: row;
+}
+
+.h-link {
+  transition: all 0.3s ease-in;
+}
+
+.h-link:hover {
+  opacity: 0.6;
+  transition: all 0.3s ease-in;
+}
+
+.h-link > img {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+
+#name {
+  align-self: flex-end;
+  margin-left: 10px;
+  margin-bottom: 5px;
+  margin-right: 30px;
+}
+
+#linkedin {
+  height: 30px;
+  width: 34px;
+  margin-right: 10px;
+}
+
+#footnote {
+  font-size: small;
+}
+
+#footnote > a {
+  text-decoration: none;
+  font-weight: bold;
 }

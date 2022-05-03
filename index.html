@@ -18,14 +18,22 @@
     <script src="https://d3js.org/d3-geo-projection.v3.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js"></script>
     <script type="module" src="./src/index.js"></script>
-    <script async defer src="https://buttons.github.io/buttons.js"></script>
 </head>
 <body>
     <header>
-    <h1>That's a Lot of Cups: Alcohol Consumption by Country</h1>
+    <h1>That's a Lot of Cups:<br>
+        Alcohol Consumption by Country</h1>
     <p id="name">by Arthur Nahmmacher</p>
-    <!-- Place this tag where you want the button to render. -->
-    <a class="github-button" href="https://github.com/anahmmacher" aria-label="Follow @anahmmacher on GitHub"></a>
+    <br>
+        <div class="about-me-links">
+            <a class="h-link" href="https://github.com/anahmmacher/Javascript_Project_12_27_21" target=”_blank”>
+                <img src="./src/images/GitHub-Mark-32px.png" alt="">
+            </a>
+            <br>
+            <a class="h-link" href="https://www.linkedin.com/in/arthur-nahmmacher/" target=”_blank”>
+                <img id="linkedin" src="./src/images/LI-In-Bug.png" alt="">
+            </a>
+        </div>
     </header>
         <br>
         <div id="content">
@@ -35,7 +43,7 @@
             <p class="cal-p">Since most people don't drink pure alcohol, use the converter below to figure out how many red cups of different
                 types of alcoholic beverages you would have to drink to equal the amount in pure alcohol.</p>
                 <br>
-            <img src="https://raw.githubusercontent.com/anahmmacher/Javascript_Project_12_27_21/main/red_cup_lines.png">
+            <img id="cups-img" src="./src/images/red_cup_lines.png">
             <br>
             <p class="cal-p">We're using red cups as a visual repersentation because the ridges on the sides align with indicated standard
                 drink amounts of different varieties of alcohol.</p>
@@ -53,8 +61,8 @@
                 <label for="cup-amount">Red Cup Serving Size:</label>
                 <select id="cup-amount" name="cup-amount">
                     <option value="default2" selected="selected">Select cup serving amount</option>
-                    <option value="standard-drink">indicated standard drink size</option>
-                    <option value="full-cup">full cup</option>
+                    <option value="standard-drink">Indicated standard drink size</option>
+                    <option value="full-cup">Full cup</option>
                 </select>
                 <br>
                 <input type="button" class="btn" value="How many cups?">
@@ -63,13 +71,16 @@
             <p class="results not-visible">That comes out to <span></span>red cups!</p>
         </div>
         <div id="tooltip"></div>
-        <div class="map-container"><svg id="map" width="1500" height="600"></svg></div>
+        <div class="map-container">
+            <svg id="map" width="1500" height="600"></svg>
+            <p>*<span id="footnote">Data for this map was provided by the <a id="who-link" href="https://apps.who.int/gho/data/node.main.A1039?lang=en" target="_blank">WHO</a>.</span></p>
+        </div>
         <script type="module" src="./src/scripts/map_render_script.js"></script>
         </div>
         <div class="modal is-open">
             <div class="modal-text">
                 <h1 class="modal-title">That's a Lot of Cups</h1>
-                <h3>Designed and developed by Arthur Nahmmacher</h3>
+                <h3>Developed by Arthur Nahmmacher</h3>
                 <br>
                 <p id="modal-p">Welcome to a data visualization website that displays average alcohol consuption around the world by country. Hover with your mouse to see the findings and use the converter see the results in red cups.
                 </p>
