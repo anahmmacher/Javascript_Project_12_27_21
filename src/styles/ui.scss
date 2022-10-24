@@ -1,0 +1,17 @@
+.ui-container{
+	height: 120px;
+	width: 80%;
+	background-color: rgb(250, 122, 203);
+	border-radius: 25px;
+	align-items: center;
+}
+
+.ui-buttons{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.ui-buttons li:hover{
+	background-color: lightpink;
+}

@@ -1,4 +1,4 @@
-
+import * as utilData from './util_data'
 
 export function aMap() {
 
@@ -7,7 +7,7 @@ var margin = {top: 20, right: 10, bottom: 60, left: 20},
     width = 990 - margin.left - margin.right,
     height = 550 - margin.top - margin.bottom;
 
-// The svg
+// The svg properties
 var svg = d3.select("#map")
  .attr("width", width + margin.left + margin.right)
  .attr("height", height + margin.top + margin.bottom)
@@ -50,7 +50,7 @@ promises.push(d3.json("https://raw.githubusercontent.com/holtzy/D3-graph-gallery
 promises.push(d3.csv("https://raw.githubusercontent.com/anahmmacher/Javascript_Project_12_27_21/main/JS_data_alcohol.csv", function(d) { data.set(d.code, +d.liters); }))
 myDataPromises = Promise.all(promises).then(function(topo){
  
-
+//gets map data and alcohol data, adds it to promises data sets that 
 
 let mouseOver = function(d) {
     	d3.selectAll(".topo")
@@ -86,7 +86,7 @@ let mouseOver = function(d) {
           	.style("opacity", 0.8)
           	.style("left", (d3.event.pageX) + "px")		
           	.style("top", (d3.event.pageY - 28) + "px")
-            .html(`<p>${d.properties.name}: <span id="codata">${d3.format(".2f")(d.total)}</span></p>`) ;
+            .html(`<p>${d.properties.name}: <span id="codata">${d3.format(".2f")(d.total)} L</span></p>`) ;
     }
 
     let mouseLeave = function(d) {
@@ -143,6 +143,7 @@ let mouseOver = function(d) {
      svg.select(".legendQuant")
   		.call(legend);
 
+			 //title
     svg.append("text")
         .attr("x", (width / 2))             
         .attr("y", 25)

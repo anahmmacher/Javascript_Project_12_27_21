@@ -16,5 +16,4 @@ export const cal = document.addEventListener("click", (e) =>{
 
             results.classList.remove('not-visible');
     } 
-    console.log(e)
 });

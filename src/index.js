@@ -4,6 +4,7 @@ import {modal} from "./scripts/modal"
 import {aMap} from "./scripts/map_render_script.js"
 import {alcoholCalculator} from "./scripts/calculator.js"
 import {cal} from "./scripts/form-script.js"
+import { buttontoggle } from "./scripts/map_ui"
 
 
 document.addEventListener("DOMContentLoaded", () => { 
@@ -11,6 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
     modal();
     alcoholCalculator();
     cal();
+		buttontoggle();
 
 
 })

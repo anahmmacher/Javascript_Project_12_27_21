@@ -72,7 +72,17 @@
         </div>
         <div id="tooltip"></div>
         <div class="map-container">
-            <svg id="map" width="1500" height="600"></svg>
+					<div class="ui-container">
+						<ul class="ui-buttons">
+							<li class="total-ui selected" value="total"><span><img class="button-img" src="./src/images/005-all.png" alt="all types of alcohol">Total</span></li>
+							<li class="beer-ui" value="beer"><span><img class="button-img" src="./src/images/003-beer.png" alt="beer">Beer</span></li>
+							<li class="wine-ui"><span><img class="button-img" src="./src/images/004-oversized-wine-glass.png" alt="wine">Wine</span></li>
+							<li class="spirits-ui"><span><img class="button-img" src="./src/images/001-liquor.png" alt="spirits">Spirits</span></li>
+							<li class="other-ui"><span><img class="button-img" src="./src/images/002-cup-and-bottle-of-sake.png" alt="other alcoholic beverages">Other</span></li>
+						</ul>
+
+					</div>
+            <svg id="map" class="total" width="1500" height="600"></svg>
             <p>*<span id="footnote">Data for this map was provided by the <a id="who-link" href="https://apps.who.int/gho/data/node.main.A1039?lang=en" target="_blank">WHO</a>.</span></p>
         </div>
         <script type="module" src="./src/scripts/map_render_script.js"></script>
@@ -89,5 +99,9 @@
             <div class="modal-screen"></div>
             <script src="./src/scripts/modal.js"></script>
         </div>
+				<div class="not-visible">Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a
+						href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+				<div class="not-visible">Icons made by <a href="https://www.flaticon.com/authors/andrejs-kirma" title="Andrejs Kirma">Andrejs Kirma</a> from
+					<a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 </body>
 </html>

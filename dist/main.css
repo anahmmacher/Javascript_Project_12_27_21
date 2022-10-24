@@ -366,3 +366,48 @@ h1 {
   text-decoration: none;
   font-weight: bold;
 }
+
+.ui-container {
+  margin-top: 30px;
+  height: 100px;
+  width: 80%;
+  background-color: rgb(130, 28, 76);
+  border-radius: 25px;
+  align-items: center;
+  color: rgb(130, 28, 76);
+}
+
+.ui-buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.ui-buttons li {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.ui-buttons > li > span {
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.ui-buttons li:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+.ui-buttons > li > span:hover {
+  color: #000;
+}
+
+.selected {
+  background-color: rgba(255, 255, 255, 0.3);
+  color: black;
+}
+
+.button-img {
+  padding: 20px;
+}
