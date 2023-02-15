@@ -380,6 +380,7 @@ h1 {
 .ui-buttons {
   display: flex;
   flex-direction: row;
+	align-items: center;
   justify-content: space-around;
 }
 
@@ -398,7 +399,7 @@ h1 {
   color: #000;
 }
 
-#selected {
+.selected {
   background-color: rgba(255, 255, 255, 0.3);
   color: black;
 }
