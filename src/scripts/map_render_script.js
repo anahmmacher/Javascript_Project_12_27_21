@@ -57,19 +57,7 @@ let mouseOver = function(d) {
     		
       		.transition()
       		.duration(200)
-      		//.style("opacity", .8)
-         	/*var population = data.get(d.id) || 0;
-      	var min_pop = 0
-      	var max_pop = domain[0]
-      	for(var i = 0; i < domain.length; i++){
-      		if (population >= min_pop && population <= max_pop)
-      			break;
-      		min_pop = domain[i]
-      		if (i < domain.length-1)
-      			max_pop = domain[i+1]
-      		else
-      			max_pop = 1e50
-      	}*/
+
       	
     	d3.select(this)
     		//.filter(function(d){d.total = data.get(d.id) || 0; return d.total <= max_pop && d.total >= min_pop})
