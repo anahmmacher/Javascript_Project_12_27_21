@@ -375,12 +375,14 @@ h1 {
   border-radius: 25px;
   align-items: center;
   color: rgb(130, 28, 76);
+  display: flex;
+  justify-content: center;
 }
 
 .ui-buttons {
   display: flex;
   flex-direction: row;
-	align-items: center;
+  align-items: center;
   justify-content: space-around;
 }
 
@@ -388,73 +390,51 @@ h1 {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
-}
-
-.ui-buttons li:hover {
-  background-color: rgba(255, 255, 255, 0.3);
-}
-
-.ui-buttons > li > span:hover {
-  color: #000;
-}
-
-.selected {
-  background-color: rgba(255, 255, 255, 0.3);
-  color: black;
+  align-items: end;
+  color: white;
+  padding-left: 12.5%;
+  padding-right: 12.5%;
+  padding-top: 5%;
+  padding-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+  border: solid rgb(255, 255, 255);
+  border-radius: 25px;
+  height: 70px;
+  width: 80px;
 }
 
 #total-ui {
-	background-image: url("../src/images/005-all.png");
-	background-size: contain;
-	background-repeat: no-repeat;
-	background-position: center;
-	padding: 12px;
-	border: none;
-	background-color: rgb(130, 28, 76);
-	color: white;
+  background-image: url("../images/005-all.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 #beer-ui {
-	background-image: url("../src/images/003-beer.png");
-	background-size: contain;
-	background-repeat: no-repeat;
-	background-position: center;
-	padding: 12px;
-	border: none;
-	background-color: rgb(130, 28, 76);
-	color: white;
+  background-image: url("../images/003-beer.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 #wine-ui {
-	background-image: url("../src/images/004-oversized-wine-glass.png");
-	background-size: contain;
-	background-repeat: no-repeat;
-	background-position: center;
-	padding: 12px;
-	border: none;
-	background-color: rgb(130, 28, 76);
-	color: white;
+  background-image: url("../images/004-oversized-wine-glass.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 #spirits-ui {
-	background-image: url("../src/images/001-liquor.png");
-	background-size: contain;
-	background-repeat: no-repeat;
-	background-position: center;
-	padding: 12px;
-	border: none;
-	background-color: rgb(130, 28, 76);
-	color: white;
+  background-image: url("../images/001-liquor.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 #other-ui {
-	background-image: url("../src/images/002-cup-and-bottle-of-sake.png");
-	background-size: contain;
-	background-repeat: no-repeat;
-	background-position: center;
-	padding: 12px;
-	border: none;
-	background-color: rgb(130, 28, 76);
-	color: white;
+  background-image: url("../images/002-cup-and-bottle-of-sake.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
