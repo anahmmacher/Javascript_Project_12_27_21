@@ -1,4 +1,4 @@
-﻿code,name,totalLiters,beerLiters,wineLiters,spiritsLiters,otherLiters
+﻿code,name,total,beer,wine,spirits,other
 AFG,Afghanistan,0.01,0,0,0.01,0
 ALB,Albania,4.4,1.75,1.15,1.43,0.08
 DZA,Algeria,0.59,0.31,0.2,0.08,0

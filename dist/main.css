@@ -397,12 +397,12 @@ h1 {
   background-color: rgb(130, 28, 76);
   padding-left: 12.5%;
   padding-right: 12.5%;
-  padding-top: 8%;
-  padding-bottom: 8%;
+  padding-top: 10%;
+  padding-bottom: 10%;
   margin-left: 5%;
   margin-right: 5%;
   border-radius: 25px;
-  height: 70px;
+  height: 85px;
   width: 80px;
 }
 
@@ -444,4 +444,47 @@ h1 {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
+}
+
+#con {
+  align-items: center;
+  appearance: none;
+  background-color: #fd3e5e;
+  background-image: linear-gradient(1deg, #fd4f6f, #f3145b 99%);
+  background-size: calc(100% + 20px) calc(100% + 20px);
+  border-radius: 100px;
+  border-width: 0;
+  box-shadow: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: CircularStd, sans-serif;
+  font-size: 1rem;
+  height: auto;
+  justify-content: center;
+  line-height: 1.5;
+  padding: 6px 20px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: background-color 0.2s, background-position 0.2s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: top;
+  white-space: nowrap;
+}
+
+#con:active,
+#con:focus {
+  outline: none;
+}
+
+#con:hover {
+  background-position: -20px -20px;
+}
+
+#con:focus:not(:active) {
+  box-shadow: rgba(255, 40, 130, 0.25) 0 0 0 0.125em;
 }
