@@ -1,15 +1,11 @@
 to-do list:
-redesign calculator button
 
 redesign select dropdown and input
 
-box shadows
+update text with map swap
 
-who link
-
-
-
+set up color values for unknown items
 
 work on Readme.md
 
-Start on data toggle bar
+

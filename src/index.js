@@ -1,14 +1,14 @@
 
 import {dataPojo} from "./test.js"
 import {modal} from "./scripts/modal"
-import {aMap} from "./scripts/map_render_script.js"
+import {bMap} from "./scripts/map_render_script_v2.js"
 import {alcoholCalculator} from "./scripts/calculator.js"
 import {cal} from "./scripts/form-script.js"
 import { buttontoggle } from "./scripts/map_ui"
 
 
 document.addEventListener("DOMContentLoaded", () => { 
-    aMap();
+    bMap();
     modal();
     alcoholCalculator();
     cal();

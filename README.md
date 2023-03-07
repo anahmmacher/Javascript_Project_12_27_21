@@ -26,4 +26,9 @@ The World map is showing and I was able to make a crude legend, since there's no
 creating the map took most of my time. importing and mainipulating the data was more challenging than expected. Started working on way to sort data
 rerender map, but ran out of time. This will be implemented in the final version later on. 
 
+update 3/6/23 - This map has the following updates:
+map now has buttons that allow you to swap between 5 different datasets (total, beer, wine, spirits, and other).
+map title updates dynamically to show which dataset is currently active.
+map legend also updates according to current active dataset
+
 livesite link: https://anahmmacher.github.io/Javascript_Project_12_27_21/
